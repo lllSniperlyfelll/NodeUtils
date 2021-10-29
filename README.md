@@ -1,2 +1,2 @@
 # NodeUtils
-node package for string utilities functions.
+node package for commonly used utilities functions.
