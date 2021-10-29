@@ -6,4 +6,4 @@ node package for commonly used utilities functions.
 
 Function name  | Description  | Input params | Output
 ------------- | ------------- | ------------- | ------------- |
-isStrEmpty()  | Check if string is empty or not | string | Boolean: (true/false)
+isStrEmpty(checkString)  | Check if string is empty or not | string | Boolean: (true/false)
