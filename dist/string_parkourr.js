@@ -11,4 +11,4 @@ function isStrEmpty(checkString) {
     return (0, StrEmpty_1.isStrEmpty)(checkString);
 }
 exports.isStrEmpty = isStrEmpty;
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=string_parkourr.js.map

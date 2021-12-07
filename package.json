@@ -2,10 +2,11 @@
   "name": "string_parkourr",
   "version": "1.5.2",
   "description": "node package for string utilities functions. ",
-  "main": "index.js",
+  "main": "string_parkourr.js",
   "scripts": {
     "start": "ts-node ./src/index.ts",
-    "build": "tsc --build"
+    "clean": "tsc --build --clean",
+    "build": "npm run clean && tsc --build"
   },
   "repository": {
     "type": "git",
