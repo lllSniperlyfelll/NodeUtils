@@ -6,8 +6,10 @@ const capatalizeEachStr = (strToCapatalize: string): string => {
   else
     return `${strToCapatalize.slice(0, 1).toUpperCase()}${strToCapatalize
       .slice(1)
-      .toLocaleLowerCase()}`;
+      .toLowerCase()}`;
 };
+
+
 
 const joinArrayWithSpaces = (arrayToJoin: string[]): string =>
   arrayToJoin.join(" ");
@@ -34,6 +36,5 @@ export function capatalizeStr(
       }
     }
   }
-
   return stringToCapatalize;
 }
