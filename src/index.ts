@@ -1,7 +1,7 @@
 import { capatalizeStr as cpStr } from "./StrCapatalize";
 import { isStrEmpty as isStrEpty } from "./StrEmpty";
 
-export function capatalizeStr(
+export function capitalizeStr(
   stringToCapatalize: string,
   toKebabCase: boolean = false
 ): string {
