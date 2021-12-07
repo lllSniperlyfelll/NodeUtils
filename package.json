@@ -1,6 +1,6 @@
 {
   "name": "string_parkourr",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "node package for string utilities functions. ",
   "main": "string_parkourr.js",
   "scripts": {
